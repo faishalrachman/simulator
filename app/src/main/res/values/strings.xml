@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">gateSimulation</string>
+    <string name="base_url">http://43.245.185.202/valet</string>
+    <string name="apikey">PZuMfvDR5h8nttgY</string>
+</resources>
